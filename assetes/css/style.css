@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Varela Round', sans-serif;
+    background-image: url(/assetes/images/final-fantasy-wallpaper-ffviii-series-rinoa-squall.jpg);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 990px;
+}
+
+.container h1{
+    color: #ADD8E6;
+}
+
+.fantasy_image {
+    background-image: url(/assetes/images/gunblade.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-color: transparent;
+    opacity: 0.85;
+    display: flex;
+}
+
+.column{
+    flex-direction: column;
+}
+.about_fantasy{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.about_fantasy h1{
+    margin: 0;
+    padding: 0;
+    max-width: 350px;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.about_fantasy h2{
+    margin-left: 50px;
+    text-align: justify;
+    padding: 0;
+    max-width: 650px;
+    font-size: 18px;
+    color: white;
+    margin-right: 20px;
+    font-weight: normal;
+}
