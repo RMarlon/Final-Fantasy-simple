@@ -102,3 +102,20 @@ header {
     height: 130px;
     box-shadow: 0 0 5px 0px darkblue;
 }
+
+.links{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.links img{
+    margin-top: 20px;
+    height: 90px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s;
+    margin-left: 10px;
+}
+
+.links img:hover{
+    box-shadow: 0 0 5px 0px darkblue;
+}
