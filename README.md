@@ -2,8 +2,6 @@
   Final Fantasy VIII Game Tribute 🎮
 </h1>
 
-<h1> <a href=""> See the site</a></h1>
-
 ## 🕹️ About
 
 **Medi Center** is a web page of a clinic, where it was designed to use on desktop, tablet and mobile ⚔️
