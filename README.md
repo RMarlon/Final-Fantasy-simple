@@ -16,4 +16,3 @@ Initially the project was done in order to improve my skills as a developer, but
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
